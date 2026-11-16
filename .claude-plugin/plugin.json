@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cruft-sweep",
+  "version": "0.1.0",
+  "description": "Survey, classify and safely reclaim stale git worktrees. Bundles every branch before removing anything.",
+  "author": { "name": "flashesofbrilliance" },
+  "license": "MIT",
+  "repository": "https://github.com/flashesofbrilliance/cruft-sweep-skill",
+  "keywords": ["arcs", "claude-code", "worktrees"]
+}
